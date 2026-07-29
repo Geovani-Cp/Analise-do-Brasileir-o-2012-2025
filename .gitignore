@@ -1,0 +1,28 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (large CSV)
+dados_processados.csv
+
+# Jupyter database
+db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
